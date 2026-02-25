@@ -40,8 +40,9 @@ pwa:
   cache:
     enabled: true
 
-google_analytics:
-  id: G-7PMSBVN3K6
+analytics:
+  google_analytics:
+    id: G-7PMSBVN3K6
 
 paginate: 10
 
