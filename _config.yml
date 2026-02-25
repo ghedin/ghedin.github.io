@@ -40,7 +40,7 @@ pwa:
   cache:
     enabled: true
 
-google_tag_manager:
+google_analytics:
   id: G-7PMSBVN3K6
 
 paginate: 10
