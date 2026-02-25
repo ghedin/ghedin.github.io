@@ -36,7 +36,7 @@ comments:
   provider: # deixa vazio por enquanto
 
 pwa:
-  enabled: true
+  enabled: false
   cache:
     enabled: true
 
