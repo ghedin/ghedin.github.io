@@ -28,7 +28,7 @@ social:
 # Deixa vazio para seguir o sistema (com toggle claro/escuro)
 theme_mode: # [light | dark]
 
-avatar: /assets/img/3904685.png
+avatar: https://avatars.githubusercontent.com/u/3904685?v=4
 
 toc: true
 
